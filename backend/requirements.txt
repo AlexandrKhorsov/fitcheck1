@@ -1,0 +1,11 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+python-multipart==0.0.20
+python-dotenv==1.0.1
+supabase==2.10.0
+pydantic==2.10.3
+pillow==11.0.0
+rembg==2.0.59
+openai==1.58.1
+httpx>=0.26,<0.28
+stripe==11.4.1
